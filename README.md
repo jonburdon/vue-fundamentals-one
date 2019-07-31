@@ -51,3 +51,6 @@ https://scrimba.com/p/pXKqta/cgnEeh4
 
 Intro to full course:
 https://scrimba.com/p/pXKqta/cZr7rSL
+
+Full Course:
+https://scrimba.com/g/glearnvue
