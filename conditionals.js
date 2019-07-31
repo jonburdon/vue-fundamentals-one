@@ -5,3 +5,5 @@ var app = new Vue({
     }
   })
   
+//   Change the data below to hide the span in conditions.html
+  app.seen = true;
