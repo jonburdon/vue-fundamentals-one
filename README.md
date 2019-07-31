@@ -24,6 +24,9 @@
 ### Credits
 All code snippets originated from Vue Tutorials on:
 
+Vue Tutorials from Official Vue Docs
+https://scrimba.com/p/pXKqta/
+
 Basics
 https://scrimba.com/p/pXKqta/cQ3QVcr
 
