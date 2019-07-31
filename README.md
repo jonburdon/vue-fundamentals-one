@@ -16,8 +16,9 @@
 4. Vue Framework
 
 ### Useful resources
-Chrome Vue Devtools Extension
-Use this example Vue App on jsfiddle https://jsfiddle.net/chrisvfritz/50wL7mdz/
+1. https://vuejs.org/v2/guide/
+2. Chrome Vue Devtools Extension
+3. Use this example Vue App on jsfiddle https://jsfiddle.net/chrisvfritz/50wL7mdz/
 
 ### Credits
 All code snippets originated from Vue Tutorials on:
@@ -27,4 +28,12 @@ https://scrimba.com/p/pXKqta/cQ3QVcr
 
 Conditionals
 https://scrimba.com/p/pXKqta/cEQe4SJ
+
+List Rendering
+https://scrimba.com/p/pXKqta/cB4gESW
+
+Event Listeners using v-on
+https://scrimba.com/p/pXKqta/czPNaUr
+
+
 
