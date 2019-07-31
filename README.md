@@ -6,8 +6,9 @@
 1. Demonstrate key fundamentals of a javascript framework
 
 ## Developer Aims
-1. Develop understanding of javascript fundamental level
+1. Develop understanding of javascript frameworks at a fundamental level
 2. Use minimum technologies possible to explore Vue eg no cli or node.js to build projects
+3. Start with a very simple code base, and then refactor / repurpose.
 
 ### Technologies
 1. HTML
@@ -34,6 +35,9 @@ https://scrimba.com/p/pXKqta/cB4gESW
 
 Event Listeners using v-on
 https://scrimba.com/p/pXKqta/czPNaUr
+
+v-model
+https://scrimba.com/p/pXKqta/c9ePQT3
 
 
 
