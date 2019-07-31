@@ -39,5 +39,12 @@ https://scrimba.com/p/pXKqta/czPNaUr
 v-model
 https://scrimba.com/p/pXKqta/c9ePQT3
 
+components
+https://scrimba.com/p/pXKqta/cEQVkA3
+
+components with props
+https://scrimba.com/p/pXKqta/cgnEeh4
 
 
+Intro to full course:
+https://scrimba.com/p/pXKqta/cZr7rSL
