@@ -1,4 +1,4 @@
-# Vue Playground
+# Vue Learning Project 1
 
 ## Learning Fundamentals of Vue Frameworks
 
@@ -14,7 +14,7 @@
 1. HTML
 2. CSS
 3. Javascript
-4. Vue Framework
+4. Vue.js
 
 ### Useful resources
 1. https://vuejs.org/v2/guide/
